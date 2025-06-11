@@ -1,3 +1,4 @@
-# A01_-
-这是一个用于读取论文中曲线的程序
-以sims曲线为例
+# A01_-Reading_SIMS_curves_from_images_in_papers.using_Python
+TCAD仿真需要SIMS的指导，自己随便写了一个TCAD命令代码。
+这是一个用于读取论文中图片Curve的项目
+以sims曲线为例,成功的数据放在Output_data文件夹中
